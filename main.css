@@ -1,0 +1,14 @@
+.cat-clicks{
+	position: absolute;
+	left: 10px;
+	font-size: 200%;
+	color: green;
+}
+.cat-container{
+	margin: 10px 50px;
+	clear: both;
+}
+
+a{
+	margin: 10px
+}
