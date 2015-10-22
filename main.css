@@ -4,11 +4,11 @@
 	font-size: 200%;
 	color: green;
 }
-.cat-container{
+#container{
 	margin: 10px 50px;
 	clear: both;
 }
 
-a{
+.btn{
 	margin: 10px
 }
